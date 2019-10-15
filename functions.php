@@ -13,3 +13,5 @@ function sayHello($name=''){
 
 
 }
+
+echo  sayHello('masoud');
